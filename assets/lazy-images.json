@@ -1,0 +1,52 @@
+[
+    {
+        "url":"assets/img/gallery/africa.jpeg",
+        "alt":"",
+        "type": "hero"
+     },
+     {
+        "url":"assets/img/gallery/champion-senegal.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/cup.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/foot.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/nigeria.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/sadio.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/senegal.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/teamAfrica.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/tunisia.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/ghana.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/worldcup.jpeg",
+        "alt":""
+     },
+     {
+        "url":"assets/img/gallery/cameroun.jpeg",
+        "alt":""
+     }
+     
+]
