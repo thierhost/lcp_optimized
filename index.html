@@ -170,7 +170,29 @@
         <section class="container hero-container">
             <div class="image-hero">
                 <div class="img" id="image-hero">
-                  <img src="assets/new/africa.webp" fetchpriority="high" width="350" height="600" alt="">
+                  <picture>
+                    <source
+                      sizes="(min-width: 769px) 769px"
+                      srcset="assets/new/africa-740w.avif 768w, assets/new/africa-520w.avif"
+                      width="369"
+                      type="image/avif"
+                    >
+                    <source
+                      sizes="(min-width: 769px) 769px"
+                      srcset="assets/new/africa-740w.webp 768w, assets/new/africa-520w.webp"
+                      width="369"
+                      type="image/webp"
+                    >
+                    <img
+                      sizes="(min-width: 769px) 769px"
+                      srcset="assets/new/africa-740w.jpeg 768w, assets/new/africa-520w.jpeg"
+                      width="369"
+                      src="assets/gallery/africa.jpeg"
+                      fetchpriority="high"
+                      width="369"
+                      height="600"
+                    >
+                </picture>
                 </div>
                 <div class="hero-text">
                     <h1>Senegal Winning the world cup 2022</h1>
